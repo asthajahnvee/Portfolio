@@ -1,0 +1,35 @@
+
+  
+// import DocViewer, { DocViewerRenderers } from 'react-doc-viewer';
+// import { Document, Page,} from '@react-pdf/renderer';
+// export let docs=[
+//   {uri: '../assets/202101140_Jahnvee_Patel.pdf'},
+//   {fileType:"pdf"},
+//   {fileName:" Resume Jahnvee Patel"}
+// ];
+
+        {/* <DocViewer documents={docs} pluginRenderers={DocViewerRenderers} style={{height:1000, width:1000}}></DocViewer> */}
+    
+
+
+
+indexxxx
+
+// import {Route, Routes} from "react-router-dom"; 
+// import Projects from './components/Projects';
+// export const Address = () => {
+//   return (
+//     <>
+//       <Routes>
+//         <Route path="/" element={<App/>} />
+//         <Route path='/projects' element={<Projects/>} />
+//       </Routes>
+//     </>
+// );
+// }
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <BrowserRouter>
+    <App />
+  </BrowserRouter>
+);

@@ -1,0 +1,93 @@
+/* projrct list css */
+.projects{
+    height: 100vh;
+    padding: 1.5rem;
+}
+.projects .projectlist1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+    font-family: 'Nanum Myeongjo', serif;
+}
+.projects h1{
+    font-weight: 400;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+.homeback{
+    border-bottom: 1px solid;
+    font-family: 'Nanum Myeongjo', serif;
+}
+.homeback h1{
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding: 1.5rem;
+}
+.projectlist{
+    max-width: 30rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:center;
+    font-family: 'Nanum Myeongjo', serif;
+    text-wrap: wrap;
+}
+.projectlist img{
+    height: 7rem;
+    width: 7rem;
+    margin-right: 3rem;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.projectlist .projectinfo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-bottom: 2rem;
+}
+.projectinfo h2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Nanum Myeongjo', serif;
+}
+.projectinfo h2{
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+.projectinfo h5{
+    font-weight: 400;
+    font-size: 1rem;
+}
+.projectinfo p{
+    font-weight: 400;
+    font-size: 1rem;
+    margin-left: 0.8rem;
+    margin-bottom: 0.2rem;
+}
+.githubdet{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.githubdet a{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.githubdet img{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 10px;
+    height: 1rem;
+    width: 1rem;
+    border: none;
+}
