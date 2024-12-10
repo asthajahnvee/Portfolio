@@ -22,7 +22,10 @@
     justify-content: center;
     align-items: center;
     padding: 1rem 1rem;
-
+}
+.acquaintance .myimg img{
+    max-width: 70%;
+    max-height: 80%;
 }
 .acquaintance .myinfo{
     display: flex;

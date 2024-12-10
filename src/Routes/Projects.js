@@ -94,12 +94,12 @@ const projectData = {
   ],
   "Art Projects": [
     {
-      title:"temp",
+      title:"Gender Bias",
       projectimg: "path/to/art-project1.jpg",
-      description: "Description of art project 1",
-      techstack: "Tech stack for art project 1",
-      github: "https://github.com/user/art-project1",
-      platform: "Github"
+      description: "Explore the dark sides of AI",
+      techstack: "",
+      github: "https://medium.com/@jdgothi04/gender-bias-in-ai-challenges-impacts-and-solutions-ae43d3d9a791",
+      platform: "Medium"
     },
     {
       title:"temp",
