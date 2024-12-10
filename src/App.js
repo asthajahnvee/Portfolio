@@ -1,4 +1,3 @@
-import React from "react";
 import { Route, Routes} from "react-router-dom";
 // import Landingpg from "./components/Landingpg";
 import LandingPage from "./Routes/LandingPage";
